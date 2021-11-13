@@ -1,5 +1,7 @@
 # Motec-Workbooks
 
+You might see these in action on the YouTube channel: https://www.youtube.com/c/BustersCorner
+
 You will see I have shared two Motec Workbooks that I created to use with the Iracing telemetry. You will see that I used the workspace pull down to be a vehicle selector and the worksheets to be the areas of focus.  Unfortunately, Iracing and Motec are making it difficult when it comes to Shocks vs Dampers and using them in the Suspension Histogram. Iracing has chosen to send NextGen shock positioning telemetry and Truck shock positioning on different channels. Motec for some reason has their Suspension Histogram calculations in a single workbook can only be either a Shock or a Damper (programmers language is that the calculation is scoped across entire workbook).  Since Trucks and NextGen don't both use shocks, they can not exist in the same workbook.  When Iracing and Motec get this resolved I will try to update the workbooks so we can get one workbook instead of two.
 
 
