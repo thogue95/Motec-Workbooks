@@ -1,6 +1,8 @@
 # Motec-Workbooks
 
-You might see these in action on the YouTube channel: https://www.youtube.com/c/BustersCorner
+Update: 12-27-2021: There is a new video that you will want to watch to see how to interpret those suspension histograms.  This will also provide a foundation for a new workbook I will be releasing soon that will provide a new view into suspension telemetry.  https://www.youtube.com/watch?v=gIC7VF8aG34
+
+Update 12-3-2027: Here is an install video: https://www.youtube.com/watch?v=5OCwlHEV5FM&t=16s
 
 Update: I have started to come back and do some updates to these workbooks so you will start to see additional version numbers.
 
