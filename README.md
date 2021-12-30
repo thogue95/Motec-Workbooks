@@ -1,4 +1,6 @@
-# Motec-Workbooks
+# Motec-Workspace
+
+Update: 12-30-2021: New versions of my Motec Workspace for NextGen and the Sk and Tour Modifieds.  Sorry Trucks, no update for you.  These are verion numbered at v6-1.  There is a Dyno page in there on both workspaces and the NextGen has significant updates for shock tuning.  You will not get the value out of the shock pages unless you have watched the video referenced below.  Other minor tweaks and clean up as well.
 
 Update: 12-27-2021: There is a new video that you will want to watch to see how to interpret those suspension histograms.  This will also provide a foundation for a new workbook I will be releasing soon that will provide a new view into suspension telemetry.  https://www.youtube.com/watch?v=gIC7VF8aG34
 
