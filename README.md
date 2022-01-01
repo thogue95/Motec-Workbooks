@@ -1,5 +1,7 @@
 # Motec-Workspace
 
+Update: 1-1-2022: Just completed a video going over the V6-2 in detail.  https://www.youtube.com/watch?v=Lm5fUQlViJs
+
 Update: 1-1-2022: Corrrected Compression and Rebound signed values in v6-2 for both NextGen and SK/Tour cars.
 
 Update: 12-30-2021: New versions of my Motec Workspace for NextGen and the Sk and Tour Modifieds.  Sorry Trucks, no update for you.  These are verion numbered at v6-1.  There is a Dyno page in there on both workspaces and the NextGen has significant updates for shock tuning.  You will not get the value out of the shock pages unless you have watched the video referenced below.  Other minor tweaks and clean up as well.
