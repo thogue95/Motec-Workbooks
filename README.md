@@ -43,9 +43,9 @@ Difuser Worksheet:
 ![Diffuser Page](https://user-images.githubusercontent.com/8271391/150249281-4fda4860-d46e-4b64-a08e-0d5d8b1c2a2f.jpg)
 
 
-Garage Worksheet:!
+Garage Worksheet:
 
-[Garage Page](https://user-images.githubusercontent.com/8271391/150249363-1f0bba33-701f-4d9a-ad52-af3d4674521f.jpg)
+![Garage Page](https://user-images.githubusercontent.com/8271391/150249363-1f0bba33-701f-4d9a-ad52-af3d4674521f.jpg)
 
 
 
