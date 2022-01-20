@@ -1,5 +1,5 @@
 # Motec-Workspace
-Update: 1-19-2022: Updated the NextGen workbook to Version 7-1.  Added a Diffuser Worksheet and a Garage Worksheet.  Added Brake Pressure to the Wheel Spin Page.  You will need to watch the video on Busters Corner to understand how to use the Diffuser Worksheet.  Garage Worksheet is the values from the Garage as well as a Center of Gravity Scatter Plot.
+Update: 1-19-2022: Updated the NextGen workbook to Version 7-1.  Added a Diffuser Worksheet and a Garage Worksheet.  Added Brake Pressure to the Wheel Spin Page.  You will need to watch the video on Busters Corner to understand how to use the Diffuser Worksheet.  Garage Worksheet is the values from the Garage as well as a Center of Gravity Scatter Plot.  See pics below.
 
 Update: 1-1-2022: Just completed a video going over the V6-2 in detail.  https://www.youtube.com/watch?v=Lm5fUQlViJs
 
@@ -38,3 +38,15 @@ Once Motec is installed, then download the zip files and extract.  Move the extr
 Run Motec.
 
 Tip:  Motec REALLY wants to see loaded data.  This gets me every time still!!!  
+
+Difuser Worksheet: 
+![Diffuser Page](https://user-images.githubusercontent.com/8271391/150249281-4fda4860-d46e-4b64-a08e-0d5d8b1c2a2f.jpg)
+
+
+Garage Worksheet:!
+
+[Garage Page](https://user-images.githubusercontent.com/8271391/150249363-1f0bba33-701f-4d9a-ad52-af3d4674521f.jpg)
+
+
+
+
