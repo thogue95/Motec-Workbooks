@@ -1,4 +1,6 @@
 # Motec-Workspace
+Update: 1-30-2022:  New Workbook v7-6.  Created new Track Views, Roll Histogram and updated some elements in the garage.   New Track Views are a big change and adds significant context.  Detailed explanation is given in a video on Busters Corner YouTube channel.  I encourage all to watch it to understand how to use the new Track Views.  
+
 Update: 1-21-2022: Found some conversion errors on the Garage Worksheet and some of my development artifacts on someof the other pages.  Those that are watching your roll bar preloads will appreciate this update.  Removing v6-2, v7-1 as well as NextGen and Tours Ver 5-2.
 
 Update: 1-19-2022: Updated the NextGen workbook to Version 7-1.  Added a Diffuser Worksheet and a Garage Worksheet.  Added Brake Pressure to the Wheel Spin Page.  You will need to watch the video on Busters Corner to understand how to use the Diffuser Worksheet.  Garage Worksheet is the values from the Garage as well as a Center of Gravity Scatter Plot.  See pics below.
