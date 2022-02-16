@@ -1,18 +1,21 @@
 # Motec-Workspace
+Update 2-16-2022:  Updated the Truck and Xfinity workbooks to v7-6.  While Busters Corner videos are focused on NextGen cars, I would strongly encourage watching the videos where these workbooks are discussed.  Especially the shock video and the Motec video so you can understand the color coding on the shock and roll velocities.  Removing the older v5-2 versions.
+
+
 Update: 1-30-2022:  New Workbook v7-6.  Created new Track Views, Roll Histogram and updated some elements in the garage.   New Track Views are a big change and adds significant context.  Detailed explanation is given in a video on Busters Corner YouTube channel.  I encourage all to watch it to understand how to use the new Track Views.  https://www.youtube.com/watch?v=vXgJ65A6F40
 
-Update: 1-21-2022: Found some conversion errors on the Garage Worksheet and some of my development artifacts on someof the other pages.  Those that are watching your roll bar preloads will appreciate this update.  Removing v6-2, v7-1 as well as NextGen and Tours Ver 5-2.
+Update 1-21-2022: Found some conversion errors on the Garage Worksheet and some of my development artifacts on someof the other pages.  Those that are watching your roll bar preloads will appreciate this update.  Removing v6-2, v7-1 as well as NextGen and Tours Ver 5-2.
 
-Update: 1-19-2022: Updated the NextGen workbook to Version 7-1.  Added a Diffuser Worksheet and a Garage Worksheet.  Added Brake Pressure to the Wheel Spin Page.  You will need to watch the video on Busters Corner to understand how to use the Diffuser Worksheet.  Garage Worksheet is the values from the Garage as well as a Center of Gravity Scatter Plot.  See pics below.
+Update 1-19-2022: Updated the NextGen workbook to Version 7-1.  Added a Diffuser Worksheet and a Garage Worksheet.  Added Brake Pressure to the Wheel Spin Page.  You will need to watch the video on Busters Corner to understand how to use the Diffuser Worksheet.  Garage Worksheet is the values from the Garage as well as a Center of Gravity Scatter Plot.  See pics below.
 
 https://www.youtube.com/watch?v=oYLktIN5GoA
 
 
-Update: 1-1-2022: Just completed a video going over the V6-2 in detail.  https://www.youtube.com/watch?v=Lm5fUQlViJs
+Updat: 1-1-2022: Just completed a video going over the V6-2 in detail.  https://www.youtube.com/watch?v=Lm5fUQlViJs
 
-Update: 1-1-2022: Corrrected Compression and Rebound signed values in v6-2 for both NextGen and SK/Tour cars.
+Update 1-1-2022: Corrrected Compression and Rebound signed values in v6-2 for both NextGen and SK/Tour cars.
 
-Update: 12-30-2021: New versions of my Motec Workspace for NextGen and the Sk and Tour Modifieds.  Sorry Trucks, no update for you.  These are verion numbered at v6-1.  There is a Dyno page in there on both workspaces and the NextGen has significant updates for shock tuning.  You will not get the value out of the shock pages unless you have watched the video referenced below.  Other minor tweaks and clean up as well.
+Update 12-30-2021: New versions of my Motec Workspace for NextGen and the Sk and Tour Modifieds.  Sorry Trucks, no update for you.  These are verion numbered at v6-1.  There is a Dyno page in there on both workspaces and the NextGen has significant updates for shock tuning.  You will not get the value out of the shock pages unless you have watched the video referenced below.  Other minor tweaks and clean up as well.
 
 Update: 12-27-2021: There is a new video that you will want to watch to see how to interpret those suspension histograms.  This will also provide a foundation for a new workbook I will be releasing soon that will provide a new view into suspension telemetry.  https://www.youtube.com/watch?v=gIC7VF8aG34
 
