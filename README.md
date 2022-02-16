@@ -1,5 +1,5 @@
 # Motec-Workspace
-Update 2-16-2022:  Updated the Truck and Xfinity workbooks to v7-6.  While Busters Corner videos are focused on NextGen cars, I would strongly encourage watching the videos where these workbooks are discussed.  Especially the shock video and the Motec video so you can understand the color coding on the shock and roll velocities.  Removing the older v5-2 versions.
+Update 2-16-2022:  Updated the Truck and Xfinity workbooks to v7-6.  While Busters Corner videos are focused on NextGen cars, I would strongly encourage watching the videos where these workbooks are discussed.  Especially the shock video and the Motec video so you can understand the color coding on the shock and roll velocities.  Removing the older Truck v5 version.
 
 
 Update: 1-30-2022:  New Workbook v7-6.  Created new Track Views, Roll Histogram and updated some elements in the garage.   New Track Views are a big change and adds significant context.  Detailed explanation is given in a video on Busters Corner YouTube channel.  I encourage all to watch it to understand how to use the new Track Views.  https://www.youtube.com/watch?v=vXgJ65A6F40
