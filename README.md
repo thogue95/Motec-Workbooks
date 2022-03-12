@@ -1,4 +1,15 @@
 # Motec-Workspace
+Update 3-11-2022: Update 3-11-2022:
+New Slip and Spin worksheets added to give Car Side Slip Angle, Front Slip Angle, Rear Slip Angle and improved Wheel Spin worksheets.  Improved the Tire Track Reports with consistent color scales for easier interpretation.  These worksheets should provide better insight into loose conditions and give information needed to get more speed and stability out of the setups.  Most of the new screens have been designed to make it easier for most people to be able to use the telemetry without being an engineer while still keeping technical screens available for those that enjoy the technical approach.
+
+Removing Next Gen v7.2
+
+As usual, you will most likely will not understand what you are looking at without watching the video as in the video I explain the concepts behind the new worksheets.  Here is the link to the video.
+
+https://www.youtube.com/watch?v=MigyRSuNbB8
+
+
+
 Update 2-16-2022:  Updated the Truck and Xfinity workbooks to v7-6.  While Busters Corner videos are focused on NextGen cars, I would strongly encourage watching the videos where these workbooks are discussed.  Especially the shock video and the Motec video so you can understand the color coding on the shock and roll velocities.  Removing the older Truck v5 version.
 
 READ THIS:  The garage tab is intended to give you reference to how the car is setup so you don't have to write on a note pad.  This information is just read and displayed using the MoTec conversions.  There are several numbers that look off or incorrect.  This is not my doing.  It is due to iRacing or MoTec improperly doing conversions.  I suspect more on the issue is more on the iRacing side, but was not worth the time to investigate.  Either way the numbers will get you close enough to recreate the setup if you change settings without saving your setup config.  In summary, don't blame the messenger!  :-)
