@@ -1,5 +1,7 @@
 # Motec-Workspace
-Update 3-11-2022: Update 3-11-2022:
+Update: 3-12-2022: Some users were seeing the Steering Wheel not rendering the angle correctly.  This was fixed by setting the Wheel range to manual with min and max values set to -90 and 90 respectively.  V8.1 has that correction.  V8.0 is removed.
+
+Update 3-11-2022: v8.0
 New Slip and Spin worksheets added to give Car Side Slip Angle, Front Slip Angle, Rear Slip Angle and improved Wheel Spin worksheets.  Improved the Tire Track Reports with consistent color scales for easier interpretation.  These worksheets should provide better insight into loose conditions and give information needed to get more speed and stability out of the setups.  Most of the new screens have been designed to make it easier for most people to be able to use the telemetry without being an engineer while still keeping technical screens available for those that enjoy the technical approach.
 
 Removing Next Gen v7.2
