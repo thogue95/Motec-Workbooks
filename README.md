@@ -10,6 +10,7 @@ As usual, you will most likely will not understand what you are looking at witho
 
 https://www.youtube.com/watch?v=MigyRSuNbB8
 
+Tip: When you identify a problem, look at the timing of the problems.  Identify the problem that occurs first and chase that down first.  
 
 
 Update 2-16-2022:  Updated the Truck and Xfinity workbooks to v7-6.  While Busters Corner videos are focused on NextGen cars, I would strongly encourage watching the videos where these workbooks are discussed.  Especially the shock video and the Motec video so you can understand the color coding on the shock and roll velocities.  Removing the older Truck v5 version.
