@@ -1,4 +1,6 @@
 # Motec-Workspace
+Update: 3-17-2022: Removing older version Next Gen V7.6 to encourage people downloading the most current.
+
 Update: 3-12-2022: Some users were seeing the Steering Wheel not rendering the angle correctly.  This was fixed by setting the Wheel range to manual with min and max values set to -90 and 90 respectively.  V8.1 has that correction.  V8.0 is removed.
 
 Update 3-11-2022: v8.0
