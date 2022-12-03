@@ -1,4 +1,9 @@
 # Motec-Workspace
+Update: 12-3-23:  
+Changing the version naming to include a year and season time stamp.  
+Updated the Overview worksheet, added Driver worksheet, removed Aero worksheet, corrected Diffuser Wedge calculation to reflect trend to run negative rakes, updated Tire Temps to include tire pressures and pressure staggers, added Tire Stint Heatmaps and updated Slip and Spin worksheets.
+Removing Version 8.1 as iRacing changes have made somem of the worksheets inaccurate.
+
 Update: 3-17-2022: Removing older version Next Gen V7.6 to encourage people downloading the most current.
 
 Update: 3-12-2022: Some users were seeing the Steering Wheel not rendering the angle correctly.  This was fixed by setting the Wheel range to manual with min and max values set to -90 and 90 respectively.  V8.1 has that correction.  V8.0 is removed.
