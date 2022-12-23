@@ -1,5 +1,8 @@
 # Motec-Workspace
-Update: 12-3-23:  
+Update: 12-23=22:
+Updated the Xfinity MoTeC workbook to be similar to that of the 2023-S3-v1 NextGen workbook.
+
+Update: 12-3-22:  
 Changing the version naming to include a year and season time stamp.  
 Updated the Overview worksheet, added Driver worksheet, removed Aero worksheet, corrected Diffuser Wedge calculation to reflect trend to run negative rakes, updated Tire Temps to include tire pressures and pressure staggers, added Tire Stint Heatmaps and updated Slip and Spin worksheets.
 Removing Version 8.1 as iRacing changes have made somem of the worksheets inaccurate.
