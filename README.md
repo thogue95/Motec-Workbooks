@@ -1,4 +1,9 @@
 # Motec-Workspace
+
+Update: 2-5-2023: Next Gen 2023-S-v4
+Driver worksheet Steer Angle vs Lat G graph now takes into accountn Steerring Offset.  Also added a Dynamic CoG worksheet.
+Video on how to use the Dynamic CoG workshseet can be found on the Busters Corner YouTube channel. https://www.youtube.com/@BustersCorner
+
 Update: 12-23=22:
 Updated the Xfinity MoTeC workbook to be similar to that of the 2023-S3-v1 NextGen workbook.
 
