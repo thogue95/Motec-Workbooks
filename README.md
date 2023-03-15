@@ -1,6 +1,8 @@
 # Motec-Workspace
+Update: 3-15-2023: BC-Trucks-S2-v3
+The Trucks Workbook has been updated to the same look and feel as the Next Gen 2023-S1-4 workbook.  
 
-Update: 2-5-2023: Next Gen 2023-S-v4
+Update: 2-5-2023: Next Gen 2023-S1-v4
 Driver worksheet Steer Angle vs Lat G graph now takes into accountn Steerring Offset.  Also added a Dynamic CoG worksheet.
 Video on how to use the Dynamic CoG workshseet can be found on the Busters Corner YouTube channel. https://www.youtube.com/@BustersCorner
 
